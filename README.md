@@ -1,2 +1,4 @@
-# Projeto TODO
- Projeto criado para praticar html, css e javascript puro.
+# Todo App Project
+ This project is just to practice what I learning whit Javascript.
+ If you're a beginner this project is a good ideia to put into practice the basics of front-end development.
+ Enjoy it!
